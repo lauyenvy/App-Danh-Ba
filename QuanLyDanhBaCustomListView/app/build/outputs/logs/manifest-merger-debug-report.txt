@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:4:22-66
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\boss\.android\build-cache\d5aa1723e579348eb799d082f9bc6993ae2abd66\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\boss\.android\build-cache\6fbc3a1d7fe7b7638307c411aa02c196a1c10811\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\boss\.android\build-cache\e0504c0027025f4bb1c41c3f075034de6bc2701e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\boss\.android\build-cache\2905e0fa9ca830dddc530ddfd256dfd6b41de9fb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\boss\.android\build-cache\0b6bab73fb0a4554b775649721b91baa91aae178\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\0fbea9d93cb4bbd3b3257358bf25c15ad67298a3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\752f401fde48bc3e193bf40fb5ccc7ee6c9f59dc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\boss\.android\build-cache\bfc369b37b9ad0ea0458be153ec34220ecc38288\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\boss\.android\build-cache\31ee498829f160d2346ab698ef80c3678193261b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.boss.quanlydanhbacustomlistview.MainActivity
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.boss.quanlydanhbacustomlistview.ManHinhChiTietActivity
+ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml:21:19-57
+uses-sdk
+INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\boss\.android\build-cache\d5aa1723e579348eb799d082f9bc6993ae2abd66\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\boss\.android\build-cache\6fbc3a1d7fe7b7638307c411aa02c196a1c10811\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\boss\.android\build-cache\e0504c0027025f4bb1c41c3f075034de6bc2701e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\boss\.android\build-cache\2905e0fa9ca830dddc530ddfd256dfd6b41de9fb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\boss\.android\build-cache\0b6bab73fb0a4554b775649721b91baa91aae178\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\0fbea9d93cb4bbd3b3257358bf25c15ad67298a3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\752f401fde48bc3e193bf40fb5ccc7ee6c9f59dc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\boss\.android\build-cache\bfc369b37b9ad0ea0458be153ec34220ecc38288\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\boss\.android\build-cache\31ee498829f160d2346ab698ef80c3678193261b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\boss\AndroidStudioProjects\QuanLyDanhBaCustomListView\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\boss\.android\build-cache\d5aa1723e579348eb799d082f9bc6993ae2abd66\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\boss\.android\build-cache\6fbc3a1d7fe7b7638307c411aa02c196a1c10811\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\boss\.android\build-cache\e0504c0027025f4bb1c41c3f075034de6bc2701e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\boss\.android\build-cache\2905e0fa9ca830dddc530ddfd256dfd6b41de9fb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\boss\.android\build-cache\0b6bab73fb0a4554b775649721b91baa91aae178\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\0fbea9d93cb4bbd3b3257358bf25c15ad67298a3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\boss\.android\build-cache\752f401fde48bc3e193bf40fb5ccc7ee6c9f59dc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\boss\.android\build-cache\bfc369b37b9ad0ea0458be153ec34220ecc38288\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\boss\.android\build-cache\43e0553c77e0c1b2ab650b6ec929e7196614e208\output\AndroidManifest.xml:26:9-47
